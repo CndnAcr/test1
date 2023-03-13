@@ -1,1 +1,2 @@
 1.gun ilk deneme
+1.gun 2.deneme
